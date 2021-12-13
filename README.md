@@ -1,6 +1,9 @@
 # openwrt-rules
 My Modified Custom Rules Tools
 
+## DIRECT = Bypass ISP
+## GLOBAL = VPN
+
 
 
 ## OPENCLASH
